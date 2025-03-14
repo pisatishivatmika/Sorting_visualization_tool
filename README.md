@@ -1,6 +1,5 @@
 # Sorting_visualization_tool
 source code for my sorting visualizer project. Languages used HTML,CSS, Javascript
-# VisualSort
 
 An animated visualization of sorting algorithms.
 
